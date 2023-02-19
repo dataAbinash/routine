@@ -183,8 +183,8 @@
         "sub": "BUIE-CSE-2"
     },
     {
-        "name": "Graphics & Design X",
-        "description": "Graphics & Design Lab for X group",
+        "name": "Graphics & Design Y",
+        "description": "Graphics & Design Lab for Y group",
         "emoji": "🎨",
         "type": "weekly",
         "time": {
@@ -196,14 +196,43 @@
         "sub": "BUIE-CSE-2"
     },
     {
-        "name": "Graphics & Design Y",
-        "description": "Graphics & Design Lab for Y group",
+        "name": "Graphics & Design X",
+        "description": "Graphics & Design Lab for X group",
         "emoji": "🎨",
         "type": "weekly",
         "time": {
             "4": [
                 "13:30",
                 "16:40"
+            ]
+        },
+        "sub": "BUIE-CSE-2"
+    },
+    {
+        "name": "Tiffin Time",
+        "description": "Cholo canteen theke ghure asi",
+        "emoji": "😋",
+        "type": "weekly",
+        "time": {
+            "1": [
+                "12:50",
+                "13:30"
+            ],
+            "2": [
+                "12:50",
+                "13:30"
+            ],
+            "3": [
+                "12:50",
+                "13:30"
+            ],
+            "4": [
+                "12:50",
+                "13:30"
+            ],
+            "5": [
+                "12:50",
+                "13:30"
             ]
         },
         "sub": "BUIE-CSE-2"
