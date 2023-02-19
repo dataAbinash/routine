@@ -77,7 +77,7 @@
     {
         "name": "Language",
         "description": "English",
-        "emoji": "📚",
+        "emoji": "📖",
         "type": "weekly",
         "time": {
             "2": [
@@ -159,7 +159,7 @@
     {
         "name": "Language Lab X",
         "description": "English Lab for X group",
-        "emoji": "📚",
+        "emoji": "📖",
         "type": "weekly",
         "time": {
             "2": [
@@ -172,7 +172,7 @@
     {
         "name": "Language Lab Y",
         "description": "English Lab for Y group",
-        "emoji": "📚",
+        "emoji": "📖",
         "type": "weekly",
         "time": {
             "4": [
