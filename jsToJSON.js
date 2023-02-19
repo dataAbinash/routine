@@ -145,7 +145,7 @@ const routines = [
 // console.log(JSON.stringify(routines));
 
 const fs = require('fs');
-fs.writeFile('./routine.json', JSON.stringify(routines), function (err) {
+fs.writeFile('./sampleRoutine.json', JSON.stringify(routines), function (err) {
     if (err) {
         console.log(err);
     }
