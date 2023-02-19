@@ -15,7 +15,7 @@ const routines = [
     {
         name: 'Mathematics',
         description: 'Mathematics-IIA',
-        emoji: '🧮',
+        emoji: '➕',
         type: 'weekly',
         time: {
             1: ['12:00', '12:50'],
